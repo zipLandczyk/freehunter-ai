@@ -1,1 +1,1 @@
-# freehunter-ai 
+# freehunter AI
